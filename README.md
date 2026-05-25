@@ -65,12 +65,14 @@ apt install g++ zlib1g-dev libfreetype6-dev
 For building Mandrel from source please see [mandrel-packaging](https://github.com/graalvm/mandrel-packaging)
 and consult [Repository Structure in CONTRIBUTING.md](CONTRIBUTING.md#repository-structure) regarding which branch of Mandrel to use.
 
-# Community
-Empowering Software Development with Works on Arm Initiative
-![Works on Arm logo](img/works_on_arm_900x77.png)
-[Works on Arm](https://www.arm.com/solutions/infrastructure/works-on-arm) is a strategic initiative to enable and accelerate the
-software ecosystem for Arm64.
+# Acknowledgments
 
-[GraalVM's](https://www.graalvm.org/) [Mandrel](https://github.com/graalvm/mandrel) distribution that
-powers [Quarkus Native](https://quarkus.io/guides/building-native-image) proudly counts itself among the libraries and
-tools that successfully leveraged the resources from Works on Arm.
+1. Empowering Software Development with Works on Arm Initiative
+
+   ![Works on Arm logo](img/works_on_arm_900x77.png)
+
+   [Works on Arm](https://www.arm.com/solutions/infrastructure/works-on-arm) is a strategic initiative to enable and accelerate the software ecosystem for Arm64.
+
+   [GraalVM's](https://www.graalvm.org/) [Mandrel](https://github.com/graalvm/mandrel) distribution that powers [Quarkus Native](https://quarkus.io/guides/building-native-image) proudly counts itself among the libraries and tools that successfully leveraged the resources from Works on Arm.
+
+2. This work was partially supported by the European Union project AERO (grant agreement No. 1010928). ![EU-Flag](https://aero-project.eu/wp-content/uploads/elementor/thumbs/EU-flag-Horizon-Europe-q1yut7hwge8uq76yx4rtq2z6ogevtl3rm81fus95l2.jpg)
